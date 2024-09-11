@@ -1,0 +1,8 @@
+.header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.header__icon {
+  font-size: 3rem;
+}/*# sourceMappingURL=Header.module.css.map */
